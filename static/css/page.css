@@ -1,13 +1,18 @@
 body {
   font-family: 'Lato', sans-serif;
   font-weight: 300;
-  font-size: 12px;
+  font-size: 14px;
 }
 
-.nav-pills > li.active {
+.nav-pills > li.active > a,
+.nav-pills > li.active > a:hover,
+.nav-pills > li.active > a:focus {
   background-color: #2d2d2d;
 }
 
 .nav-pills > li > a {
   color: #2d2d2d;
 }
+
+.jeff-head {
+  border-bottom: 1px solid #eee;
