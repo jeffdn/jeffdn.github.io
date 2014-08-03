@@ -1,4 +1,13 @@
 body {
-  font-family: sans-serif;
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
   font-size: 12px;
+}
+
+.nav-pills > li.active {
+  background-color: #2d2d2d;
+}
+
+.nav-pills > li > a {
+  color: #2d2d2d;
 }
