@@ -4,6 +4,10 @@ body {
   font-size: 14px;
 }
 
+a {
+  color: #8f8f8f;
+}
+
 .nav-pills > li.active > a,
 .nav-pills > li.active > a:hover,
 .nav-pills > li.active > a:focus {
