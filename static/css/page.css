@@ -17,11 +17,13 @@ a:hover {
 .nav-pills > li.active > a:focus {
   background-color: #8f8f8f;
   color: #eeeeee;
+  border: 1px #8f8f8f solid;
 }
 
 .nav-pills > li > a {
   color: #8f8f8f;
   background-color: #eeeeee;
+  border: 1px #eeeeee solid;
 }
 
 .nav-pills > li > a:hover {
